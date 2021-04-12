@@ -1,0 +1,10 @@
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Luis Andres Acuña Ramos', 46285513, NOW());
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Wilberto Morales', 23658965, NOW());
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Jerson Castañeda', 12456325, NOW());
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Hernando de Soto Padilla', 32658945, NOW());
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Keiko Fujimori Chorida', 12659874, NOW());
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Pedro Picapiedra', 36741259, NOW());
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Rafael Lopez Aliaga', 12859632, NOW());
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Pedro Castillo', 74526398, NOW());
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Ricardo Ruiz Lopez', 74526341, NOW());
+INSERT INTO client (nombrecompleto, dni, create_at) VALUES('Benavente Guerrero', 85412365, NOW());
